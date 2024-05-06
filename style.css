@@ -5,6 +5,7 @@ body {
 main {
     display: flex;
     justify-content: space-around;
+    font-size: 150%;
 }
 
 .sala_de_aula{
