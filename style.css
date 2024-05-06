@@ -1,7 +1,10 @@
 body {
     background-color: black;
     color: white;
+}
+main {
     display: flex;
+    justify-content: space-around;
 }
 
 .sala_de_aula{
