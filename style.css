@@ -6,6 +6,7 @@ main {
     display: flex;
     justify-content: space-around;
     font-size: 150%;
+    justify-content: space-around;
 }
 
 .sala_de_aula{
